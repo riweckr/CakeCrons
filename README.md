@@ -13,6 +13,7 @@ Installation
 1. Create a folder named 'cake_crons' in your 'plugins' directory.
 2. Either download the latest release and extract it into 'cake_crons',
    or clone this repository into 'cake_crons' and checkout the latest release.
+3. [Generate the schema](http://book.cakephp.org/1.3/en/The-Manual/Core-Console-Applications/Schema-management-and-migrations.html)
 
 Customization
 =========
